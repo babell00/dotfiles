@@ -21,7 +21,7 @@ Before setting up the dotfiles, ensure the following packages are installed on y
 - `bat`: A clone of cat(1) with syntax highlighting and Git integration
     - Install with: `brew install bat`
 - `nvchad`: A Neovim configuration framework aimed at making Vim/Neovim more powerful, flexible, and easier to use
-    - Install with: `Please provide the installation command for nvchad`
+    - Install with: `git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`
 
 Additionally, make sure that Nerd Fonts are installed and configured in your terminal to ensure compatibility and optimal display of icons and glyphs used in these configurations.
 
