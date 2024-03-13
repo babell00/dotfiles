@@ -1,3 +1,5 @@
+if [ "$TMUX" = "" ]; then tmux; fi
+
 set -o vi
 
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/openjdk.jd/Contents/Home
